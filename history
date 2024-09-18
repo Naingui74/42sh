@@ -1,0 +1,269 @@
+    0  13:33   a
+    1  13:33   z
+    2  13:33   ls
+    3  13:33   ls
+    4  13:33   ls ; ls
+    5  13:33   ls
+    6  13:33   ls
+    7  13:33   ls
+    8  13:33   ls ; ls
+    9  13:33   ls; ls
+    10  13:33   clear
+    11  13:33   exit
+    12  13:33   ls
+    13  13:34   ls
+    14  13:34   ls ;ls
+    15  13:34   ls
+    16  13:34   ls ;ls
+    17  13:34   clear
+    18  13:34   ls
+    19  18:02   LS
+    20  18:02   ls
+    21  18:02   ls;ls
+    22  18:02   ls ;ls
+    23  18:02   ls ; ls
+    24  18:02   ls && ls
+    25  18:02   azdfazaf
+    26  18:02   azfazfafaz || ls
+    27  18:02   history
+    28  18:02   history -r
+    29  18:03   ss
+    30  18:03   clear
+    31  18:03   s
+    32  18:03   set caca
+    33  18:03   set caca = ls
+    34  18:03   caca
+    35  18:03   set = caca
+    36  18:03   clear
+    37  18:05   ls | cat -e
+    38  18:05   set variable = contenu
+    39  18:05   set variable contenu
+    40  18:05   clear
+    41  18:06   set toto=42
+    42  18:06   echo $toto
+    43  18:06   #
+    44  18:06   ~
+    45  18:06   {
+    46  18:06   [
+    47  18:06   |
+    48  18:06   `
+    49  18:06   _
+    50  18:06   ç
+    51  18:07   set toto=42
+    52  18:07   echo $toto
+    53  18:08   clear
+    54  18:08   ls & clear
+    55  18:08   clear
+    56  18:08   exit
+    57  18:13   ls
+    58  18:13   set toto=42
+    59  18:14   set toto=42
+    60  18:17   set toto=42
+    61  18:17   echo $toto
+    62  18:22   m
+    63  18:22   set toto=42
+    64  18:29   set toto=42
+    65  18:30   set toto=52
+    66  18:32   set toto=52
+    67  18:35   l
+    68  18:35   ls
+    69  18:35   ls
+    70  18:35   ls ;ls
+    71  18:35   cat - e
+    72  18:35   ls | cat -e
+    73  18:36   clear
+    74  20:12   ls
+    75  20:12   ls;ls
+    76  20:12   ls | cat -e
+    77  20:13   clear
+    78  20:13   set toto=423
+    79  20:13   echo $toto
+    80  20:14   ls
+    81  20:14   ls | cat -e
+    82  20:17   ls | cat -e
+    83  20:22   ls
+    84  20:22   ls
+    85  20:22   ls
+    86  20:22   ls | cat -e
+    87  20:23   ls
+    88  20:25   ls
+    89  20:25   ls
+    90  20:26   ls
+    91  20:27   ls
+    92  20:27   ls | cate -e
+    93  20:27   ls | cat -e
+    94  20:29   ls
+    95  20:29   ls | cat -e
+    96  20:51   ls
+    97  20:51   ls | cat -e
+    98  20:53   ls
+    99  20:53   ls | cat -e
+    100  20:54   ls
+    101  20:54   ls | cat -e
+    102  20:56   ls
+    103  20:56   ls | cat -e
+    104  20:57   ls
+    105  20:57   ls | cat -e
+    106  20:58   ls
+    107  20:58   ls | cat -e
+    108  20:58   ls
+    109  20:59   ls
+    110  20:59   ls | cat -e
+    111  21:03   ls
+    112  21:03   ls | cat -e
+    113  21:03   l
+    114  21:03   ls
+    115  21:05   env | grep DIS
+    116  21:06   ls | grep include | cat -e
+    117  21:06   ls | cat -e
+    118  21:06   ls | cat
+    119  21:06   ls | grep include
+    120  21:10   ls
+    121  21:10   ls | cat -e
+    122  21:11   ls | grep include | cat -e
+    123  21:11   ls
+    124  21:11   ls | grep include | cat -e
+    125  21:11   ls | grep cat
+    126  21:12   ls
+    127  21:12   ls ; ls
+    128  21:12   ls | grep cat -e
+    129  21:12   ls | grep include
+    130  21:13   ls
+    131  21:13   ls | cat -e
+    132  21:14   ls
+    133  21:14   ls | cat -e
+    134  21:15   ls
+    135  21:15   ls | cat -e
+    136  21:16   ls
+    137  21:16   ls | cat -e
+    138  21:16   ls
+    139  21:16   ls | cat (e
+    140  21:17   ls | cat -e
+    141  21:19   ls
+    142  21:19   ls | cat -e
+    143  21:20   ls
+    144  21:20   ls | cat
+    145  21:20   ls | cat -e
+    146  15:14   ls
+    147  15:16   ls
+    148  15:16   ls ;ls
+    149  15:21   ls
+    150  15:21   ls;ls
+    151  15:21   cd lib
+    152  15:22   cd lib
+    153  15:22   ls
+    154  15:22   ls;ls
+    155  15:22   cd lib
+    156  15:28   ls
+    157  15:28   history
+    158  15:28   history -r
+    159  15:36   ls > toto
+    160  15:36   ls
+    161  15:36   ls > toto
+    162  15:38   ls > toto
+    163  16:16   ls
+    164  16:16   ls > toto
+    165  16:17   clear
+    166  16:17   exit
+    167  16:28   ls
+    168  16:29   ls
+    169  16:29   ls
+    170  16:29   a
+    171  16:29   ls
+    172  16:29   a
+    173  17:08   ls
+    174  17:08   a
+    175  17:08   s
+    176  17:08   a
+    177  17:08   s
+    178  17:08   s
+    179  17:08   s
+    180  17:08   s
+    181  17:08   s
+    182  17:08   s
+    183  17:08   s
+    184  17:08   s
+    185  17:08   s
+    186  17:08   s
+    187  17:08   s
+    188  17:08   s
+    189  17:08   s
+    190  17:08   s
+    191  17:08   s
+    192  17:08   s
+    193  17:08   s
+    194  17:08   s
+    195  17:08   s
+    196  17:08   s
+    197  17:08   s
+    198  17:08   s
+    199  17:08   s
+    200  17:08   s
+    201  17:08   ss
+    202  17:08   s
+    203  17:08   s
+    204  17:09   exit
+    205  17:25   which
+    206  17:25   echo
+    207  17:25   echo
+    208  17:25   clear
+    209  17:25   ls
+    210  17:25   ls;
+    211  17:25   ls;;ls
+    212  17:25   ls;;;ls
+    213  17:37   ls
+    214  17:37   which
+    215  17:37   which
+    216  17:39   ls
+    217  17:39   which
+    218  17:39   where
+    219  17:39   which ss
+    220  17:39   clear
+    221  17:42   which
+    222  17:43   which
+    223  17:43   which
+    224  17:44   which
+    225  17:46   which
+    226  17:47   which
+    227  17:47   which
+    228  17:47   which
+    229  17:47   where
+    230  17:54   ls
+    231  17:54   alias
+    232  17:55   alias ll="ls -l"
+    233  17:55   ll
+    234  17:58   ls
+    235  17:58   which
+    236  17:58   alias ll="ls -l"
+    237  17:58   ll
+    238  18:00   alias ll="ls -l"
+    239  18:00   ll
+    240  18:03   alias ll="ls -l"
+    241  18:03   ll
+    242  18:03   clear
+    243  18:20   where azretyhk
+    244  18:20   where ss zzz
+    245  18:20   clear
+    246  14:46   ls ;ls
+    247  14:46   ls | cat
+    248  14:46   ls ; ls
+    249  14:47   set toto=42
+    250  14:47   echo $toto
+    251  14:49   history
+    252  14:49   clear
+    253  14:49   history
+    254  21:04   ls
+    255  21:04   clear
+    256  21:04   ls
+    257  21:04   ls
+    258  21:04   cd history
+    259  21:04   ls
+    260  21:04   clear
+    261  21:04   cd ..
+    262  14:00   ls
+    263  14:00   ls
+    264  14:00   ls
+    265  14:00   ls
+    266  14:00   ls;ls
+    267  14:00   clear
+    268  14:00   exit

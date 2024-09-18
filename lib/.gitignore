@@ -1,0 +1,5 @@
+libmy.a
+coding-style-reports.log
+*.o
+*.a
+*~

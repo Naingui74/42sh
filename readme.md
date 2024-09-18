@@ -76,5 +76,5 @@ $ ./42sh
 ---
 
 ## Contact  
-**Équipe** : *Insérez vos noms ici*  
-**Email** : *contact@epitech.eu*
+**Équipe** : *Moana, Arthur, Aaron, Simon*  
+**Epitech Bordeaux** : *Promo 2028*
